@@ -1,0 +1,86 @@
+<html>
+<head>
+</head>
+<body>
+<body bgcolor = " #C7D5FB">
+<font size ="6"><b><u> Customer Testimonials</u></b></font>
+<br>
+<br>
+
+<font size="4"><i>We want you to love our company as much as we do. Here's what other people have had to say about our services!</i>
+<br>
+<br>
+
+
+<b>Our Promises from these Posts</b>
+<ul>
+<li>These were all written by people who used our services.</li>
+<li>We post everything! The good and the bad. </li>
+<li>We will take down any of the testimonials if asked by the author of them.</li>
+</ul>
+
+<br>
+<br>
+<br>
+<br>
+
+<center><p style="font-family:Fantasy"><font size ="6"><font color ="white"><u> Faith Jaquess</u></center>
+<br>
+
+<center><img src="faith.jpeg" width=200 height=200></center>
+<br>
+
+<center><font size ="3"><font color ="#212A86"> I went on a group tour and absolutely loved my experience. I have never gotten to experience something like this in my life. I was nervous, but my instructor pushed me through it leading to a story I will be able to talk about for years.</center>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<center><p style="font-family:Fantasy"><font size ="6"><font color ="white"><u>Martina Foy</u></center>
+<br>
+
+<center><img src="martina.jpeg" width=200 height=200></center>
+<br>
+
+<center><font size ="3"><font color ="#212A86"> As someone who has loved planes their whole life, getting to hang glide allowed me to feel free in the sky! My individual lesson allowed me to ask questions and bond with my instructor. Thank you!</center>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<b>If you are interested in sending us a review (which we would appreciate!) please follow the steps below. </b>
+<ol>
+<li>Send us an email</li>
+<li>Write your review including your name and service you used with us</li>
+<li>Reply to the email we send you after approving the post once we generate it</li>
+<li>Check it out on our website!</li>
+</ol>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a href="https://www.tripadvisor.com/ShowUserReviews-g35223-d1963508-r377755995-Lookout_Mountain_Flight_Park-Rising_Fawn_Georgia.html" target = "showframe">What you don't want! Come with us instead!</a>
+<br>
+<br>
+<a href = "Customer_Testimonial_Reviews.docx"> Here are the exact rules of what we would like to see in these submissions </a href>
+<br>
+<br>
+<a href ="mailto:rmeuret01@gmail.com">Email us</a>
+
+</body>
+</html>
